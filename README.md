@@ -1,2 +1,1 @@
-# pc_assign
-Parallel Computing Assignment
+# Parallel Computing Assignment
